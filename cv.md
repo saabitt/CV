@@ -28,6 +28,7 @@ Ufa, Russia
     - code-basics.com:
         - JavaScript
     - githowto.com ([course repository](https://github.com/aslan-ali/githowtocom))  
+
 #### March 2022
 - Studying frontend development in RSSchool
 
