@@ -35,7 +35,7 @@ Ufa, Russia
 
 ### March, 2022
 
-- Studying frontend development in RSSchool
+- Completed course Python Basic on Evrone Academy
 
 ## MY CODE on CODEWARS
 
