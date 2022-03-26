@@ -31,7 +31,7 @@ Ufa, Russia
     - Git
   - code-basics.com:
         - JavaScript
-  - githowto.com ([course repository](https://github.com/aslan-ali/githowtocom))  
+  - githowto.com ([course repository](https://github.com/saabitt/githowtocom))  
 
 ### March, 2022
 
